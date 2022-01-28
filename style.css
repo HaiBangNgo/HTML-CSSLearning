@@ -12,8 +12,7 @@ h1{
   }
   html{
     background: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F44%2F6e%2F72%2F446e72edf4115c3f4f1b582780cf727d--diamond-background-diamond-pattern.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F806214770763289194%2F&tbnid=gQi2qXO3X8Ea1M&vet=12ahUKEwjwhOjlzLP1AhWyEWMBHRABAcQQMygbegUIARCGAg..i&docid=l84yBGMySAeP_M&w=600&h=300&itg=1&q=web%20white%20wallpaper&client=opera&ved=2ahUKEwjwhOjlzLP1AhWyEWMBHRABAcQQMygbegUIARCGAg');
-    background-size: cover;
-    background-repeat: no-repeat; #background repeat fixed
+    background-size: cover;   <!--  #background-repeat: no-repeat; #background repeat fixed  -->
     text-transform: capitalize; #capitalize all the first Letters
       
   }
@@ -38,5 +37,6 @@ div{
 }
 body{
   border: 1px solid red;
+  font-family: 'Merriweather'; 
 }
 
